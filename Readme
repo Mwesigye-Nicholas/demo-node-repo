@@ -1,0 +1,11 @@
+node js run v8 js engine outisde the browsers
+its js runtime environment.
+
+differences between node js browser js.
+
+no DOM in node js unlike in browser js.
+no window in the node js / present in browser js
+interactive apps in browser js/ server side apps in node js
+no filesystem in browserjs/ present in node js
+fragamentation in browser js / versions in node js
+ES6 modules are used browser js/ Commonjs modules used in node 
